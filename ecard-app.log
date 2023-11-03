@@ -1,0 +1,99 @@
+[14/10/2023, 9:51:05 am] [INFO]: ✅ MAILGUN: Manual Send. Email to [henrymilleruk@gmail.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 8:56:04 am] (Australia/Sydney Time)
+[14/10/2023, 10:19:10 am] [INFO]: ✅ MAILGUN: Manual Send. Email to [henrymilleruk@gmail.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 10:19:09 am] (Australia/Sydney Time)
+[14/10/2023, 10:31:57 am] [INFO]: Invalid webhook
+[14/10/2023, 10:33:00 am] [INFO]: Invalid webhook
+[14/10/2023, 10:35:03 am] [ERROR]: ⛔️ ERROR : Error: ENOENT: no such file or directory, open '/home/ubuntu/virtualgiving/templates/.html'
+[14/10/2023, 10:37:04 am] [INFO]: ✅ SHOPIFY: Order [#1002] ID [5775588000053] to [henrymilleruk+two@gmail.com] successfully passed to Mailgun. 
+[14/10/2023, 10:37:05 am] [INFO]: ✅ MAILGUN: Order [#1002] ID [5775588000053] to [henrymilleruk+two@gmail.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 10:37:05 am] (Australia/Sydney Time)
+[14/10/2023, 10:40:31 am] [INFO]: ✅ MAILGUN: Manual Send. Email to [henrymilleruk+12@gmail.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 10:40:31 am] (Australia/Sydney Time)
+[14/10/2023, 10:46:17 am] [INFO]: ✅ MAILGUN: Manual Send. Email to [henrymilleruk+12@gmail.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 10:46:16 am] (Australia/Sydney Time)
+[14/10/2023, 10:46:54 am] [INFO]: ✅ MAILGUN: Manual Send. Email to [jack@philosophydigital.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 8:51:53 am] (Australia/Sydney Time)
+[14/10/2023, 10:53:42 am] [INFO]: ✅ SHOPIFY: Order [#1003] ID [5775598780725] to [henrymilleruk+3@gmail.com] successfully passed to Mailgun. 
+[14/10/2023, 10:53:43 am] [INFO]: ✅ MAILGUN: Order [#1003] ID [5775598780725] to [henrymilleruk+3@gmail.com] successfully delivered with the message [OK]. It was delivered on [Fri Oct 13 2023 23:53:43 GMT+0000 (Coordinated Universal Time)]
+[14/10/2023, 10:57:44 am] [INFO]: ✅ MAILGUN: Manual Send. Email to [henrymilleruk+12@gmail.com] successfully delivered with the message [OK]. It was delivered on [Fri Oct 13 2023 23:57:44 GMT+0000 (Coordinated Universal Time)]
+[2023-10-13T23:58:16.786Z] [INFO]: ✅ MAILGUN: Manual Send. Email to [henrymilleruk@gmail.com] successfully delivered with the message [OK]. It was delivered on [Fri Oct 13 2023 23:58:16 GMT+0000 (Coordinated Universal Time)]
+[14/10/2023, 01:03:47] [INFO]: ✅ MAILGUN: Manual Send. Email to [jack@philosophydigital.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 01:03:45]
+[14/10/2023, 01:05:37] [INFO]: ✅ SHOPIFY: Order [#1004] ID [5775605825845] to [henrymilleruk@gmail.com] successfully passed to Mailgun. 
+[14/10/2023, 01:05:38] [INFO]: ✅ MAILGUN: Order [#1004] ID [5775605825845] to [henrymilleruk@gmail.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 01:05:38]
+[14/10/2023, 01:09:16] [INFO]: ✅ SHOPIFY: Order [#1005] ID [5775608217909] to [henrymilleruk+1@gmail.com] successfully passed to Mailgun.  🕣 SCHEDULED: User Time [Sat Oct 14 2023 01:10:00 GMT+0100 (British Summer Time)] Australia/Sydney Time [14/10/2023, 11:10:00 am]
+[14/10/2023, 01:10:01] [INFO]: ✅ MAILGUN: Order [#1005] ID [5775608217909] to [henrymilleruk+1@gmail.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 01:10:01]
+[14/10/2023, 01:19:24] [INFO]: ✅ SHOPIFY: Order [#1006] ID [5775614148917] to [henrymilleruk@gmail.com] successfully passed to Mailgun. 
+[14/10/2023, 01:19:25] [INFO]: ✅ MAILGUN: Order [#1006] ID [5775614148917] to [henrymilleruk@gmail.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 01:19:25]
+[14/10/2023, 01:23:03] [INFO]: ✅ SHOPIFY: Order [#1007] ID [5775615721781] to [henrymilleruk+left@gmail.com] successfully passed to Mailgun.  🕣 SCHEDULED: User Time [Sat Oct 14 2023 01:23:00 GMT+0100 (British Summer Time)] Australia/Sydney Time [14/10/2023, 11:23:00 am]
+[14/10/2023, 01:23:04] [INFO]: ✅ MAILGUN: Order [#1007] ID [5775615721781] to [henrymilleruk+left@gmail.com] successfully delivered with the message [OK]. It was delivered on [14/10/2023, 01:23:03]
+[02/11/2023, 22:20:26] [ERROR]: ⛔️ Error sending email: Bad Request
+[02/11/2023, 22:24:25] [ERROR]: ⛔️ Error sending email: Bad Request
+[02/11/2023, 22:26:33] [INFO]: ✅ MAILGUN: Manual Send. Email to [henrymilleruk+12@gmail.com] successfully delivered with the message [OK]. It was delivered on [02/11/2023, 22:26:33]
+[02/11/2023, 22:27:16] [ERROR]: ⛔️ Error sending email: Bad Request
+[02/11/2023, 22:29:28] [ERROR]: ⛔️ Error sending email: Bad Request
+[02/11/2023, 22:31:37] [INFO]: ✅ SHOPIFY: Order [#1012] ID [5808070132021] to [henrymilleruk@gmail.com] successfully passed to Mailgun. 
+[02/11/2023, 22:31:38] [INFO]: ✅ MAILGUN: Order [#1012] ID [5808070132021] to [henrymilleruk@gmail.com] successfully delivered with the message [OK]. It was delivered on [02/11/2023, 22:31:37]
+[02/11/2023, 22:32:17] [INFO]: ✅ SHOPIFY: Order [#1013] ID [5808070918453] to [henrymilleruk+one@gmail.com] successfully passed to Mailgun.  🕣 SCHEDULED: User Time [Fri Nov 03 2023 22:30:00 GMT+0000 (Greenwich Mean Time)] Australia/Sydney Time [04/11/2023, 9:30:00 am]
+[02/11/2023, 22:37:09] [ERROR]: ⛔️ err.message: Bad Request
+[02/11/2023, 22:37:09] [ERROR]: ⛔️ orderName: #1014
+[02/11/2023, 22:37:09] [ERROR]: ⛔️ orderID: 5808075637045
+[02/11/2023, 22:37:09] [ERROR]: ⛔️ ERROR SKU1: ReferenceError: timingLog is not defined
+[02/11/2023, 22:45:31] [ERROR]: ⛔️ err.message: Bad Request
+[02/11/2023, 22:45:31] [ERROR]: ⛔️ orderName: #1015
+[02/11/2023, 22:45:31] [ERROR]: ⛔️ orderID: 5808081797429
+[02/11/2023, 22:45:31] [ERROR]: ⛔️ sendTiming: On a certain date and time
+[02/11/2023, 22:45:31] [ERROR]: ⛔️ sendingOn: Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)
+[02/11/2023, 22:45:31] [ERROR]: ⛔️ parsedDate: Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)
+[02/11/2023, 22:45:31] [ERROR]: ⛔️ ERROR SKU1: ReferenceError: timingLog is not defined
+[02/11/2023, 22:52:22] [ERROR]: ⛔️ err.message: Bad Request
+[02/11/2023, 22:52:22] [ERROR]: ⛔️ orderName: #1016
+[02/11/2023, 22:52:22] [ERROR]: ⛔️ orderID: 5808086974773
+[02/11/2023, 22:52:22] [ERROR]: ⛔️ sendTiming: On a certain date and time
+[02/11/2023, 22:52:22] [ERROR]: ⛔️ sendingOn: Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)
+[02/11/2023, 22:52:22] [ERROR]: ⛔️ parsedDate: Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)
+[02/11/2023, 22:52:22] [ERROR]: ⛔️ ERROR SKU1: ReferenceError: timingLog is not defined
+[02/11/2023, 23:01:15] [ERROR]: ⛔️ ERROR sending email for order [#1017]: Bad Request
+[02/11/2023, 23:01:15] [ERROR]: ⛔️ ERROR details: Order ID [5808093856053], Send Timing [On a certain date and time], Sending On [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)], Parsed Date [Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)], Timing Log [ 🕣 SCHEDULED: User Time [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)] [25/11/2023, 09:00:00]]
+[02/11/2023, 23:02:18] [ERROR]: ⛔️ ERROR sending email for order [#1017]: Bad Request
+[02/11/2023, 23:02:18] [ERROR]: ⛔️ ERROR details: Order ID [5808093856053], Send Timing [On a certain date and time], Sending On [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)], Parsed Date [Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)], Timing Log [ 🕣 SCHEDULED: User Time [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)] [25/11/2023, 09:00:00]]
+[02/11/2023, 23:04:21] [ERROR]: ⛔️ ERROR sending email for order [#1017]: Bad Request
+[02/11/2023, 23:04:21] [ERROR]: ⛔️ ERROR details: Order ID [5808093856053], Send Timing [On a certain date and time], Sending On [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)], Parsed Date [Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)], Timing Log [ 🕣 SCHEDULED: User Time [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)] [25/11/2023, 09:00:00]]
+[02/11/2023, 23:06:24] [ERROR]: Scheduling email delivery for: Sat, 25 Nov 2023 09:00:00 GMT
+[02/11/2023, 23:06:24] [ERROR]: ⛔️ ERROR sending email for order [#1017]: Bad Request
+[02/11/2023, 23:06:24] [ERROR]: ⛔️ ERROR details: Order ID [5808093856053], Send Timing [On a certain date and time], Sending On [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)], Parsed Date [Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)], Timing Log [ 🕣 SCHEDULED: User Time [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)] [25/11/2023, 09:00:00]]
+[02/11/2023, 23:07:35] [ERROR]: Scheduling email delivery for: Sat, 25 Nov 2023 09:00:00 GMT
+[02/11/2023, 23:07:35] [ERROR]: ⛔️ ERROR sending email for order [#1018]: Bad Request
+[02/11/2023, 23:07:35] [ERROR]: ⛔️ ERROR details: Order ID [5808099197237], Send Timing [On a certain date and time], Sending On [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)], Parsed Date [Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)], Timing Log [ 🕣 SCHEDULED: User Time [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)] [25/11/2023, 09:00:00]]
+[02/11/2023, 23:08:37] [ERROR]: Scheduling email delivery for: Sat, 25 Nov 2023 09:00:00 GMT
+[02/11/2023, 23:08:37] [ERROR]: ⛔️ ERROR sending email for order [#1018]: Bad Request
+[02/11/2023, 23:08:37] [ERROR]: ⛔️ ERROR details: Order ID [5808099197237], Send Timing [On a certain date and time], Sending On [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)], Parsed Date [Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)], Timing Log [ 🕣 SCHEDULED: User Time [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)] [25/11/2023, 09:00:00]]
+[02/11/2023, 23:09:32] [ERROR]: Scheduling email delivery for: Sat, 04 Nov 2023 09:00:00 GMT
+[02/11/2023, 23:09:32] [INFO]: ✅ SHOPIFY: Order [#1019] ID [5808100573493] to [henrymilleruk+3@gmail.com] successfully passed to Mailgun.  🕣 SCHEDULED: User Time [Sat Nov 04 2023 09:00:00 GMT+0000 (Greenwich Mean Time)] [04/11/2023, 09:00:00]
+[02/11/2023, 23:10:40] [ERROR]: ⛔️ err.message: Bad Request
+[02/11/2023, 23:10:40] [ERROR]: ⛔️ orderName: #1018
+[02/11/2023, 23:10:40] [ERROR]: ⛔️ orderID: 5808099197237
+[02/11/2023, 23:10:40] [ERROR]: ⛔️ sendTiming: On a certain date and time
+[02/11/2023, 23:10:40] [ERROR]: ⛔️ sendingOn: Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)
+[02/11/2023, 23:10:40] [ERROR]: ⛔️ parsedDate: Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)
+[02/11/2023, 23:10:40] [ERROR]: ⛔️ ERROR SKU1: ReferenceError: timingLog is not defined
+[02/11/2023, 23:11:28] [ERROR]: ⛔️ err.message: Bad Request
+[02/11/2023, 23:11:28] [ERROR]: ⛔️ orderName: #1017
+[02/11/2023, 23:11:28] [ERROR]: ⛔️ orderID: 5808093856053
+[02/11/2023, 23:11:28] [ERROR]: ⛔️ sendTiming: On a certain date and time
+[02/11/2023, 23:11:28] [ERROR]: ⛔️ sendingOn: Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)
+[02/11/2023, 23:11:28] [ERROR]: ⛔️ parsedDate: Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)
+[02/11/2023, 23:11:28] [ERROR]: ⛔️ ERROR SKU1: ReferenceError: timingLog is not defined
+[02/11/2023, 23:15:50] [ERROR]: ⛔️ err.message: EPROTO
+[02/11/2023, 23:15:50] [ERROR]: ⛔️ orderName: #1020
+[02/11/2023, 23:15:50] [ERROR]: ⛔️ orderID: 5808105259317
+[02/11/2023, 23:15:50] [ERROR]: ⛔️ sendTiming: On a certain date and time
+[02/11/2023, 23:15:50] [ERROR]: ⛔️ sendingOn: Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)
+[02/11/2023, 23:15:50] [ERROR]: ⛔️ parsedDate: Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)
+[02/11/2023, 23:15:50] [ERROR]: ⛔️ timingLog:  🕣 SCHEDULED: User Time [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)] [25/11/2023, 09:00:00]
+[03/11/2023, 01:31:16] [INFO]: ✅ SHOPIFY: Order [#1021] ID [5808207823157] to [henrymilleruk@gmail.com] scheduled for [25/11/2023, 09:00:00] and stored in the database.
+[03/11/2023, 01:31:16] [ERROR]: ⛔️ Mailgun Error: Bad Request
+[03/11/2023, 01:31:16] [ERROR]: ⛔️ orderName: #1021
+[03/11/2023, 01:31:16] [ERROR]: ⛔️ orderID: 5808207823157
+[03/11/2023, 01:31:16] [ERROR]: ⛔️ sendTiming: On a certain date and time
+[03/11/2023, 01:31:16] [ERROR]: ⛔️ sendingOn: Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)
+[03/11/2023, 01:31:16] [ERROR]: ⛔️ parsedDate: Sat Nov 25 2023 09:00:00 GMT+0000 (Coordinated Universal Time)
+[03/11/2023, 01:31:16] [ERROR]: ⛔️ timingLog:  🕣 SCHEDULED: User Time [Sat Nov 25 2023 09:00:00 GMT+0000 (Greenwich Mean Time)] [25/11/2023, 09:00:00]
+[03/11/2023, 01:48:36] [INFO]: ✅ SHOPIFY: Order [#1022] ID [5808219947317] to [henrymilleruk@gmail.com] scheduled for [03/11/2023, 01:49:00] and stored in the database.
+[03/11/2023, 01:48:36] [INFO]: ✅ SHOPIFY: Order [#1022] ID [5808219947317] to [henrymilleruk@gmail.com] successfully passed to Mailgun.  🕣 SCHEDULED: User Time [Fri Nov 03 2023 01:49:00 GMT+0000 (Greenwich Mean Time)] [03/11/2023, 01:49:00]
+[03/11/2023, 01:49:01] [INFO]: ✅ MAILGUN: Order [#1022] ID [5808219947317] to [henrymilleruk@gmail.com] successfully delivered with the message [OK]. It was delivered on [03/11/2023, 01:49:00]
+[03/11/2023, 02:58:26] [ERROR]: Checked

@@ -1,0 +1,152 @@
+body { 
+	background: #f6f6f6;
+}
+
+.bluer { 
+	color: #1EAEDB
+ }
+.green { 
+	color: #4BB543;
+	font-weight: bold;
+}
+
+.header {
+	background: #111;
+	color: #fff;
+	padding: 2rem;
+	margin-bottom: 4rem;
+	display: flex;
+	align-items: center;
+}
+
+.header img {
+	position: relative;
+	max-width: 6rem;
+	margin-right: 2rem;
+}
+
+.header ul {
+	display: flex;
+	margin-bottom: 0;
+}
+
+.header li {
+	margin-bottom: 0;
+	margin-right: 2rem;
+	list-style-type: none;
+}
+
+.header li a {
+	text-decoration: none;
+}
+
+.create-new-template {
+	background: #fff;
+	padding: 2rem;
+	margin-bottom: 4rem;
+}
+
+.create-new-template input {
+	display: block;
+	width: 100%;
+}
+
+.create-new-template textarea {
+	display: block;
+	width: 100%;
+}
+
+.existing-templates {
+	background: #fff;
+	padding: 2rem;
+	margin-bottom: 4rem;
+}
+
+.existing-templates li {
+  list-style: none;
+}
+.existing-templates li ::before {
+  content: '';
+  display: inline-block;
+  height: 15px;
+  width: 15px;
+  background-image: url(/assets/layout_icon.png);
+  background-position: center;
+  background-size: contain;
+  margin-right: 1rem;
+  position: relative;
+  top: 1px;
+}
+
+.edit-template {
+	background: #fff;
+	padding: 2rem;
+	margin-bottom: 4rem;
+}
+
+.edit-template textarea {
+	width: 100%;
+	height: 300px;
+}
+
+.edit-template .save {
+	width: 100%;
+	margin-bottom: 0;
+}
+.edit-template .delete {
+	width: 100%;
+	margin-bottom: 0;
+	background: #ff7800 !important;
+	border-color: #ff7800 !important;
+}
+
+.send-an-ecard { 
+	background: #fff;
+	padding: 2rem;
+	margin-bottom: 4rem;
+}
+
+.send-an-ecard input { 
+	width: 100%;
+}
+
+.send-an-ecard textarea { 
+	width: 100%;
+}
+
+.send-an-ecard select { 
+	width: 100%;
+}
+
+.send-an-ecard .columns { 
+	box-shadow: none;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+
+.tutorial-icons img { 
+	display: block;
+	max-width: 100%;
+	position: relative;
+}
+
+//
+
+
+.accordion-content{
+  padding: 0 0 0 2em;
+  margin: 0 0 2em 0;
+  font-size: 1.25em;
+}
+.accordion-content p{ margin: 0; margin-bottom: 1rem;; }
+.eachFaq .title{ cursor: pointer; }
+.eachFaq .title:hover{ color: #1EAEDB; }

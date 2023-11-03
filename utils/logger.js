@@ -1,0 +1,22 @@
+const winston = require('winston');
+
+const logger = winston.createLogger({
+  level: 'info',
+  format: winston.format.combine(
+	winston.format.timestamp({
+	  format: () => {
+		const now = new Date();
+		return now.toLocaleString('en-GB', { timeZone: 'Europe/London' });
+	  }
+	}),
+	winston.format.printf(({ timestamp, level, message }) => {
+	  return `[${timestamp}] [${level.toUpperCase()}]: ${message}`;
+	})
+  ),
+  transports: [
+	new winston.transports.Console(),
+	new winston.transports.File({ filename: 'ecard-app.log' })
+  ]
+});
+
+module.exports = logger;
